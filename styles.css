@@ -91,7 +91,7 @@ h2{
     height: 100%;
     max-width: 500px;
     max-height: 500px;
-    
+    flex: 1;
 }
 .quote-text{
     max-width: 500px;
